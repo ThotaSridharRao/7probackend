@@ -1,0 +1,125 @@
+/* Custom CSS for DataAnalystBot Streamlit App */
+
+.main-header {
+    text-align: center;
+    padding: 2rem 0;
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 2rem;
+}
+
+.main-header h1 {
+    font-size: 2.5rem;
+    margin-bottom: 0.5rem;
+    font-weight: 700;
+}
+
+.main-header p {
+    font-size: 1.2rem;
+    opacity: 0.9;
+}
+
+/* Chat interface styling */
+.chat-message {
+    padding: 1rem;
+    border-radius: 10px;
+    margin-bottom: 1rem;
+}
+
+.chat-message.user {
+    background-color: #e3f2fd;
+    border-left: 4px solid #2196f3;
+}
+
+.chat-message.assistant {
+    background-color: #f3e5f5;
+    border-left: 4px solid #9c27b0;
+}
+
+/* File upload area */
+.upload-area {
+    border: 2px dashed #ccc;
+    border-radius: 10px;
+    padding: 2rem;
+    text-align: center;
+    background-color: #fafafa;
+    transition: all 0.3s ease;
+}
+
+.upload-area:hover {
+    border-color: #2196f3;
+    background-color: #f0f8ff;
+}
+
+/* Metrics styling */
+.metric-container {
+    background: white;
+    padding: 1rem;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+/* Button styling */
+.stButton > button {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 0.5rem 1rem;
+    font-weight: 600;
+    transition: all 0.3s ease;
+}
+
+.stButton > button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+/* Sidebar styling */
+.sidebar .sidebar-content {
+    background-color: #f8f9fa;
+}
+
+/* Data table styling */
+.dataframe {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Progress bar styling */
+.stProgress > div > div > div > div {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* Alert styling */
+.stAlert {
+    border-radius: 8px;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+/* Expander styling */
+.streamlit-expanderHeader {
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    border: 1px solid #e9ecef;
+}
+
+/* Tab styling */
+.stTabs [data-baseweb="tab-list"] {
+    gap: 8px;
+}
+
+.stTabs [data-baseweb="tab"] {
+    border-radius: 8px;
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+}
+
+.stTabs [aria-selected="true"] {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: white;
+}

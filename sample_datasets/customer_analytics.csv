@@ -1,0 +1,16 @@
+Customer_ID,Age,Gender,Income,Spending_Score,Purchase_Frequency,Preferred_Category,Loyalty_Years,City,Satisfaction_Rating
+C001,23,Female,35000,67,12,Fashion,2,New York,4.2
+C002,45,Male,78000,34,6,Electronics,5,Los Angeles,3.8
+C003,31,Female,52000,78,18,Beauty,3,Chicago,4.5
+C004,28,Male,41000,56,9,Sports,1,Houston,4.0
+C005,37,Female,69000,89,24,Home,4,Phoenix,4.7
+C006,52,Male,95000,23,4,Books,8,Philadelphia,3.5
+C007,29,Female,48000,72,15,Fashion,2,San Antonio,4.3
+C008,41,Male,63000,45,8,Electronics,6,San Diego,3.9
+C009,26,Female,38000,81,21,Beauty,1,Dallas,4.6
+C010,35,Male,57000,67,11,Sports,3,San Jose,4.1
+C011,48,Female,82000,34,5,Home,7,Austin,3.7
+C012,33,Male,46000,73,16,Electronics,2,Jacksonville,4.4
+C013,27,Female,44000,85,19,Fashion,1,Fort Worth,4.8
+C014,39,Male,71000,42,7,Books,5,Columbus,3.6
+C015,31,Female,54000,76,14,Beauty,3,Charlotte,4.2

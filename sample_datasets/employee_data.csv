@@ -1,0 +1,16 @@
+Employee_ID,Name,Department,Position,Salary,Years_Experience,Age,Education,Performance_Score
+E001,Alice Johnson,IT,Software Engineer,75000,3,28,Bachelor,4.2
+E002,Bob Smith,HR,HR Manager,68000,7,35,Master,4.5
+E003,Charlie Brown,Finance,Financial Analyst,62000,2,26,Bachelor,3.8
+E004,Diana Prince,IT,Senior Developer,95000,8,32,Master,4.7
+E005,Eve Wilson,Marketing,Marketing Specialist,58000,4,29,Bachelor,4.1
+E006,Frank Miller,Finance,Accountant,55000,5,31,Bachelor,3.9
+E007,Grace Lee,IT,DevOps Engineer,82000,6,30,Bachelor,4.3
+E008,Henry Davis,HR,Recruiter,52000,3,27,Bachelor,3.7
+E009,Ivy Chen,Marketing,Digital Marketer,61000,4,28,Master,4.0
+E010,Jack Taylor,Finance,Senior Analyst,78000,9,36,Master,4.6
+E011,Kate Brown,IT,Data Scientist,88000,5,29,PhD,4.8
+E012,Liam Jones,HR,HR Coordinator,48000,2,25,Bachelor,3.6
+E013,Mia Garcia,Marketing,Content Manager,65000,6,33,Bachelor,4.2
+E014,Noah White,Finance,Finance Manager,92000,12,40,Master,4.4
+E015,Olivia Martinez,IT,UI/UX Designer,71000,4,27,Bachelor,4.1

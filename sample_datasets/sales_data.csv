@@ -1,0 +1,21 @@
+Date,Product,Category,Sales,Quantity,Region,Customer_Age,Customer_Gender
+2024-01-15,Laptop,Electronics,1200,1,North,28,Male
+2024-01-16,Coffee Maker,Appliances,89,2,South,34,Female
+2024-01-17,Smartphone,Electronics,899,1,East,25,Male
+2024-01-18,Desk Chair,Furniture,299,1,West,42,Female
+2024-01-19,Headphones,Electronics,199,3,North,31,Male
+2024-01-20,Blender,Appliances,79,1,South,29,Female
+2024-01-21,Monitor,Electronics,349,2,East,35,Male
+2024-01-22,Sofa,Furniture,1299,1,West,38,Female
+2024-01-23,Tablet,Electronics,499,1,North,26,Male
+2024-01-24,Microwave,Appliances,189,1,South,33,Female
+2024-01-25,Gaming Mouse,Electronics,59,4,East,22,Male
+2024-01-26,Dining Table,Furniture,899,1,West,45,Female
+2024-01-27,Wireless Speaker,Electronics,129,2,North,30,Male
+2024-01-28,Air Fryer,Appliances,149,1,South,37,Female
+2024-01-29,Keyboard,Electronics,79,3,East,28,Male
+2024-01-30,Bookshelf,Furniture,199,1,West,41,Female
+2024-02-01,Smart Watch,Electronics,299,1,North,32,Male
+2024-02-02,Toaster,Appliances,49,2,South,36,Female
+2024-02-03,Webcam,Electronics,89,1,East,27,Male
+2024-02-04,Office Desk,Furniture,449,1,West,39,Female
